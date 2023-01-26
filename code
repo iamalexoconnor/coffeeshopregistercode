@@ -1,0 +1,29 @@
+[code]
+import java.util.Scanner:
+public class main
+{
+ public staticvoidmain(String args[])
+  {
+   String name;
+   int Name;
+   Name=input("Name of customer: ")
+num = 5
+var = 0
+price = 3
+print (coffee_price[int(var)])
+add_ins = [ "regular", "decaf", "black", "milk", "black with milk", "sugar", "no sugar"]
+coffee_price = [2.50, 1.75, 1.00]
+print (muffin_price[int(var)])
+add_ins2= [ "toast", "non-toast", "butter", "margarine", "orange mermalade"]
+muffin_price = [3.00]
+for i in range(0,n):
+    print(i,add_ins[i], price[i], add_ins2[i])
+ Total(e)=axc + bxd
+Sales tax (f)=e x (6.25/100)
+Total(g)=e+f
+var = 0
+while var != ("Done"):
+  var = input("yes")
+  print (add_ins[int(var)], total(e), sales tax(f), total(g));
+
+[/code]
